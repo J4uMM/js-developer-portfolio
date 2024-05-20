@@ -33,10 +33,10 @@
     "Português BR",
     "Inglês (intermediário)"
   ],
-  "portfolio": [
+  "projetos": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokédex em javascript",
+      "url": "https://github.com/J4uMM/pokedex.git",
       "github": true
     },
     {
