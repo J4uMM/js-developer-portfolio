@@ -37,12 +37,7 @@
     {
       "name": "Pokédex em javascript",
       "url": "https://github.com/J4uMM/pokedex.git",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "git": true
     }
   ],
   "professionalExperience": [
