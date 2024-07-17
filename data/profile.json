@@ -17,7 +17,11 @@
       {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-      }
+      },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/py.png"
+        }
     ],
     "softSkills": [
       "Proatividade",
