@@ -21,6 +21,10 @@
       {
         "name": "Python",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       }
     ],
     "softSkills": [
@@ -39,8 +43,8 @@
   ],
   "projetos": [
     {
-      "name": "Pokédex em javascript",
-      "url": "https://github.com/J4uMM/pokedex.git",
+      "name": "Repositório GitHub",
+      "url": "https://github.com/J4uMM?tab=repositories",
       "git": true
     }
   ],
